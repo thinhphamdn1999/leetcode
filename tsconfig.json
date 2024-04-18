@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "outDir": "out",
+    "sourceMap": true,
+    "lib": [
+      "ES2015",
+      "ES2021.String",
+      "DOM"
+    ]
+  }
+}
